@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "autotune/rb"
+require "autotune"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
